@@ -1,7 +1,7 @@
 # projects
  
 |  status | project |  technologies| domain |
-|--| ------- | ------ | -------| -- |
+|--| ------- | ------ | -- |
 | ![](https://geps.dev/progress/0) | [image optimization](https://github.com/BharathxD/OptimizeX-Client) | `react` `nextjs` `typescript` `javascript` `MongoDB` | web development|
 | <input type=checkbox> | [E-commerce website](https://github.com/iamshubhankarkhare/E-commerce-website)  | `ReactJS` `NodeJS` `ExpressJS` `MongoDB` `Stripe API` | web development|
 | <input type=checkbox> | [Auction System](https://github.com/Abdulrahman-Khalid/Auction-System) | `ReactJS` `NodeJS` `ExpressJS` `MongoDB` `Socket.io` | web development|
