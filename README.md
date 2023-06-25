@@ -1,6 +1,6 @@
 # projects
  
-|  status | project | guy | technologies| domain |
+|  status | project |  technologies| domain |
 |--| ------- | ------ | -------| -- |
 | ![](https://geps.dev/progress/0) | [image optimization](https://github.com/BharathxD/OptimizeX-Client) | `react` `nextjs` `typescript` `javascript` `MongoDB` | web development|
 | <input type=checkbox> | [E-commerce website](https://github.com/iamshubhankarkhare/E-commerce-website)  | `ReactJS` `NodeJS` `ExpressJS` `MongoDB` `Stripe API` | web development|
