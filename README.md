@@ -24,8 +24,35 @@
 | <input type=checkbox>  | Image recognition | `Python`, `machine learning`, `Computer Vision` | Computer Vision |
 | <input type=checkbox> | Real-time product recommendation systems | `Python`, `machine learning`, `E-commerce` | E-commerce |
 | <input type=checkbox>  | Cache strategies and control for distributed systems | `Distributed Systems` | Distributed Systems |
-| <input type=checkbox>  | Design and analysis of Apache Storm stream processing engines | `Apache Storm`, `Big Data`  | Big Data |
-
-
-
-
+| <input type=checkbox>  | Design and analysis of Apache Storm stream processing engines | `Apache Storm`, `Big Data`  | Big Data | 
+| <input type=checkbox> | A machine learning approach to predict the localization error in wireless sensor networks | Machine Learning, Wireless Sensor Networks | Machine Learning |
+| <input type=checkbox> | Identifying breast cancer using predetermined numeric features | Machine Learning | Machine Learning |
+| <input type=checkbox> | Multimodal Sentiment Analysis | Machine Learning, Natural Language Processing | Machine Learning |
+| <input type=checkbox> | Chronic Kidney Disease Prediction using Machine Learning Models | Machine Learning | Machine Learning |
+| <input type=checkbox> | Emotion based music player | Machine Learning | Machine Learning |
+| <input type=checkbox> | Dropout Rate Prediction of Massive Open Online Courses based on Graph Neural Network | Machine Learning, Graph Neural Network | Machine Learning |
+| <input type=checkbox> | An efficient and secured video Steganography for reliable data transmission | Video Processing, Data Encryption | Web Development |
+| <input type=checkbox> | Cloud Auditing Model | Data Analysis | Web Development |
+| <input type=checkbox> | Emerging wireless technology for the fifth generation (5G) and beyond networks | Wireless Communication | Web Development |
+| <input type=checkbox> | Biomedical Analysis Using Sensor & Machine Learning | Machine Learning, Sensor Technology | Machine Learning |
+| <input type=checkbox> | ML In healthcare / human activity recognition | Machine Learning, Computer Vision | Machine Learning |
+| <input type=checkbox> | Lifetime enhancement of sensor networks using machine learning approach | Machine Learning, Sensor Networks | Machine Learning |
+| <input type=checkbox> | Identifying breast cancer based on Image data | Machine Learning, Image Processing | Machine Learning |
+| <input type=checkbox> | AI Based Application- Fraud Prevention | Artificial Intelligence | Machine Learning |
+| <input type=checkbox> | IoT and ML Based Early Detection and Monitoring Of Parkinson's Disease | IoT, Machine Learning, Sensor Technology | Machine Learning |
+| <input type=checkbox> | E-nose (IoT based gas detection) | IoT, Sensor Technology | Machine Learning |
+| <input type=checkbox> | Blockchain Technology implementation In Education Sector | Blockchain | Web Development |
+| <input type=checkbox> | Automatic handwritten Signature Verification System to prevent identity fraud | Machine Learning, Image Processing | Machine Learning |
+| <input type=checkbox> | BAN for Telemedicine service | Web Development | Web Development |
+| <input type=checkbox> | Application of Blockchain Technology in Disaster Management | Blockchain | Web Development |
+| <input type=checkbox> | Railway Track Monitoring & Reduce Accidents Using Sensor Based System | Sensor Technology | Machine Learning |
+| <input type=checkbox> | DL in healthcare / human activity recognition | Deep Learning, Computer Vision | Deep Learning |
+| <input type=checkbox> | Nature inspired algorithms for energy efficient clustering in wireless sensor networks | Machine Learning, Sensor Networks | Machine Learning |
+| <input type=checkbox> | Segmenting cancerous tissues from images | Machine Learning, Image Processing | Machine Learning |
+| <input type=checkbox> | Game Development | Game Development | Web Development |
+| <input type=checkbox> | Implementing machine learning and deep learning techniques In Trojan detection | Machine Learning, Deep Learning | Machine Learning |
+| <input type=checkbox> | Lane and Curve Detection using Deep Learning for Driving Assistance System | Deep Learning, Computer Vision | Machine Learning |
+| <input type=checkbox> | Charging station optimization for Electric Vehicle | Optimization, Electric Vehicle Infrastructure | Web Development |
+| <input type=checkbox> | Fusion based Multi-modal Emotion Recognition | Machine Learning, Audio Processing, Computer Vision | Machine Learning |
+| <input type=checkbox> | One Stop Solution For IT Departmental Students | Web Development | Web Development |
+| <input type=checkbox> | GAN in healthcare / human activity recognition | Generative Adversarial Networks, Machine Learning | Machine Learning |
